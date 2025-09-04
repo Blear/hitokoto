@@ -33,7 +33,7 @@
 - `uuid`: 唯一标识符
 
 
-##添加卡片
+## 添加卡片
 ```
 type: markdown
 content: >
