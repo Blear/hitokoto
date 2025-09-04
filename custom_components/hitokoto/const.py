@@ -1,0 +1,2 @@
+DOMAIN = "hitokoto"
+PLATFORMS = ["sensor"]
