@@ -100,7 +100,7 @@ class HitokotoSensor(SensorEntity):
         data = self.coordinator.data or {}
         return {
             "from": data.get("from"),
-            "from_who": data.get("from_who","佚名"),
+            "from_who": data.get("from_who") or "佚名",
             "type": data.get("type"),
             "creator": data.get("creator"),
             "uuid": data.get("uuid"),
