@@ -2,6 +2,9 @@
 
 精选句子集成，定时获取一言API的精选句子。
 
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://hacs.xyz/docs/faq/custom_repositories)
+
+
 ## 功能特性
 
 - ✅ 支持配置句子分类（动画、漫画、游戏、文学等）
