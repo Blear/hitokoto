@@ -1,6 +1,6 @@
 {
   "domain": "hitokoto",
-  "name": "Hitokoto 每日一句",
+  "name": "Hitokoto 每日一言",
   "version": "1.0.0",
   "documentation": "https://v1.hitokoto.cn/",
   "requirements": ["aiohttp>=3.8.0"],
