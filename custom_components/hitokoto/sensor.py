@@ -45,7 +45,7 @@ class HitokotoCoordinator(DataUpdateCoordinator):
         super().__init__(
             hass,
             _LOGGER,
-            name="Hitokoto 每日一句",
+            name="Hitokoto 每日一言",
             update_method=self._async_fetch,
             update_interval=update_interval,
         )
